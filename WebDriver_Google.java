@@ -20,14 +20,14 @@ public class WebDriver_Google
         System.out.println("web  site name"+url);
         System.out.println("title"+Title);
         System.out.println("text ="+Text);
-      /*  if(url.contentEquals())
+       if(url.contentEquals())
         {
             System.out.println("it is  successfully");
         }
         else
         {
             System.out.println("it is not successfully");
-        }*/
+        }
 
 
 
